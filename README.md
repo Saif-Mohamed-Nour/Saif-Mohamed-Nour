@@ -7,8 +7,6 @@
   
 </h1>
 
-
-
 <p>
   I'm <b>Saif Nour</b>, a passionate <b>Front-end React Developer</b> from <b>Tanta, Egypt</b>.
 </p>
@@ -56,7 +54,10 @@
 ⚡ Fun fact: I love basketball 🏀 and music 🎻.
 </p>
 
+
 ---
+
+
 
 <h3>📫 Where to find me</h3>
 <p>
