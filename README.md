@@ -1,78 +1,84 @@
+
+<br/>
+<br/>
+
+
 <h1 align="center">
-  <img 
-    src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" 
-    width="40px"
-  />
-  Hey! Welcome to my profile 👋
-  
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40px" />
+  Hi, I'm Saif Nour 👋
+
 </h1>
 
-<p>
-  I'm <b>Saif Nour</b>, a passionate <b>Front-end React Developer</b> from <b>Tanta, Egypt</b>.
-</p>
-
----
-
-<h3>⚡ Things I code with</h3>
-<p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40"/>
-<!-- Tailwind CSS -->
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40"/>
-
-<!-- Bootstrap -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-
-<!-- Next.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-
-
-
-
-</p>
-
----
-
-<h3>📌 Open Source Projects</h3>
-<p>Coming soon... 🚀</p>
-
----
-
-<h3>🌍 About Me</h3>
-<p>
-💻 Currently learning and building with <b>React</b>, <b>TypeScript</b>, and exploring <b>cybersecurity</b>.<br/>
-🎯 Goal: To become a full-stack developer & build impactful projects.<br/>
-⚡ Fun fact: I love basketball 🏀 and music 🎻.
-</p>
-
-
----
-
-
-
-<h3>📫 Where to find me</h3>
-<p>
-  <a href="https://github.com/Saif-Mohamed-Nour" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/saif-nour/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saifnour311@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://saif-mohamed-nour.github.io/My-Portfolio/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&width=600&lines=Front-end+Dev+%7C+Cybersecurity+Enthusiast" alt="Typing SVG"/>
   </a>
 </p>
 
+
+<p >
+🚀 Front-end React developer | Cybersecurity enthusiast | Turning ideas into modern, colorful web experiences</p>
+<p>
+🔭 I’m currently working on **Education website**  
+</p>
+<p>
+🌱 I’m currently learning **API’s and MongoDB**  
+</p>
+<p>
+💬 Ask me about **Tech Questions**  
+</p>
+<p>
+⚡ Fun fact: I’m a **Violinist**
+</p>
+
+ <img src="https://github.com/Saif-Mohamed-Nour/Saif-Mohamed-Nour/blob/main/IMG(colored).png" />
+
+<h1>⚡ Things I code with</h1>
+
+<div >
+  <img alt="HTML5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px;">
+  <img alt="CSS3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;">
+  <img alt="JavaScript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;">
+  <img alt="React logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px;">
+  <img alt="TypeScript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px;">
+  <img alt="TailwindCSS logo" src="https://skillicons.dev/icons?i=tailwind" style="height: 40px;">
+  <img alt="Bootstrap logo" src="https://cdn.simpleicons.org/bootstrap/7952B3" style="height: 40px;">
+  <img alt="Jest logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="height: 40px;">
+  <img alt="Arduino logo" src="https://cdn.simpleicons.org/arduino/00979D" style="height: 40px;">
+  <img alt="Sass logo" src="https://skillicons.dev/icons?i=sass" style="height: 40px;">
+  <img alt="Redux logo" src="https://skillicons.dev/icons?i=redux" style="height: 40px;">
+  <img alt="MongoDB logo" src="https://skillicons.dev/icons?i=mongodb" style="height: 40px;">
+  <img alt="Vite logo" src="https://skillicons.dev/icons?i=vite" style="height: 40px;">
+  <img alt="Next.js logo" src="https://skillicons.dev/icons?i=nextjs" style="height: 40px;">
+  <img alt="Git logo" src="https://skillicons.dev/icons?i=git" style="height: 40px;">
+  <img alt="GitHub logo" src="https://skillicons.dev/icons?i=github" style="height: 40px;">
+  <img alt="CodePen logo" src="https://skillicons.dev/icons?i=codepen" style="height: 40px;">
+  <img alt="Three.js logo" src="https://skillicons.dev/icons?i=threejs" style="height: 40px;">
+  <img alt="Godot logo" src="https://skillicons.dev/icons?i=godot" style="height: 40px;">
+  <img alt="VSCode logo" src="https://skillicons.dev/icons?i=vscode" style="height: 40px;">
+  <img alt="Canva logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="height: 40px;">
+  <img alt="Yarn logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="height: 40px;">
+  <img alt="Notion logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" style="height: 40px;">
+  <img alt="Babel logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" style="height: 40px;">
+  <img alt="NPM logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 40px;">
+</div>
+
+</br>
+</br>
+
+<h1>📫 Where to find me</h1>
+<div>
+     <a href="mailto:saifnour311@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/saif-nour/">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
+
+</div>
+
+
+</br>
+</br>
+
+
+<img alt="NPM logo" src="https://profile-readme-generator.com/assets/pacman.svg">
 
